@@ -10,8 +10,8 @@ st.text("""Once a curious crow found a shiny pebble beside the river.
 It carried the pebble home, believing it was a hidden treasure.
 From that day on, the crow learned that curiosity can lead to wonderful discoveries.""" )
 
-st.markdown("""### Python, **manish**
--Python is very boring
+st.markdown("""### Python, **Ronit**
+-Python is very easy to learn and fun to be honest.
 """)
 
 st.success("you are successfully logged in!")
