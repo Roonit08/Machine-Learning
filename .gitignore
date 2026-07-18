@@ -3,3 +3,9 @@
 *.csv
 **/.ipynb_checkpoints/
 .env
+Gen_AI/EMAIL_ADK_AGENT/credentials.json
+Gen_AI/EMAIL_ADK_AGENT/token.json
+Gen_AI/EMAIL_ADK_AGENT/.env
+**/__pycache__/
+**/venv/
+**/.adk/session.db

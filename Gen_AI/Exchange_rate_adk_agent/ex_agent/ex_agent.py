@@ -66,3 +66,4 @@ root_agent = Agent(
     instruction=SYSTEM_PROMPT,
     tools=[get_exchange_rate, get_historical_exchange_rate]
 )
+
