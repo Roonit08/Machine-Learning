@@ -1,0 +1,4 @@
+"name","score","gender"
+"Tim","80","M"
+"Tom","90","M"
+"Kate","85","F"
